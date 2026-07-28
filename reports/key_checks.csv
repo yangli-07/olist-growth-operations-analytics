@@ -1,0 +1,12 @@
+table_name,candidate_key,total_rows,unique_combinations,null_key_rows,duplicate_key_rows,is_valid_key,expectation
+customers,customer_id,99441,99441,0,0,True,Expected primary key
+customers,customer_unique_id,99441,96096,0,6342,False,Customer identity; expected to repeat
+orders,order_id,99441,99441,0,0,True,Expected primary key
+products,product_id,32951,32951,0,0,True,Expected primary key
+sellers,seller_id,3095,3095,0,0,True,Expected primary key
+category_translation,product_category_name,71,71,0,0,True,Expected primary key
+order_items,order_id + order_item_id,112650,112650,0,0,True,Expected composite primary key
+payments,order_id + payment_sequential,103886,103886,0,0,True,Expected composite primary key
+reviews,review_id,99224,98410,0,1603,False,Candidate key requiring validation
+reviews,review_id + order_id,99224,99224,0,0,True,Candidate composite key
+geolocation,geolocation_zip_code_prefix,1000163,19015,0,999120,False,Expected to repeat; not a primary key
