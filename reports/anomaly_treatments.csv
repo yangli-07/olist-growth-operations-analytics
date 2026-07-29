@@ -1,0 +1,4 @@
+table_name,issue,affected_rows,treatment
+payments,payment_installments_less_than_one,2,Changed installment count from 0 to 1
+products,nonpositive_product_weight,4,Changed zero weight to missing
+orders,timestamp_or_status_anomalies,1396,Preserved records and added quality flags

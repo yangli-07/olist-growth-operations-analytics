@@ -1,0 +1,9 @@
+metric,value
+missing_categories_before,610
+untranslated_products_before,13
+translation_rows_before,71
+translation_rows_after,74
+product_rows_before_merge,32951
+product_rows_after_merge,32951
+unmatched_products_after_merge,0
+missing_english_categories_after,0

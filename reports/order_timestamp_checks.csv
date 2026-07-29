@@ -1,0 +1,9 @@
+check_name,affected_rows
+approval_before_purchase,0
+carrier_before_purchase,166
+carrier_before_approval,1359
+delivery_before_carrier,23
+delivery_before_purchase,0
+estimated_before_purchase,0
+delivered_status_missing_delivery_date,8
+non_delivered_status_with_delivery_date,6

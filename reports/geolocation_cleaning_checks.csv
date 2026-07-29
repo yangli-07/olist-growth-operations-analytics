@@ -1,0 +1,7 @@
+metric,value
+raw_rows,1000163
+exact_duplicate_rows,261831
+invalid_coordinate_rows,0
+unique_zip_codes_before,19015
+clean_rows,19015
+duplicate_zip_codes_after,0

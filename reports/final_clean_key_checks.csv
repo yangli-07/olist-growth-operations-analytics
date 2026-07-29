@@ -1,0 +1,10 @@
+table_name,key_columns,null_key_rows,duplicate_key_rows,key_valid
+customers,customer_id,0,0,True
+orders,order_id,0,0,True
+products,product_id,0,0,True
+sellers,seller_id,0,0,True
+category_translation,product_category_name,0,0,True
+order_items,order_id + order_item_id,0,0,True
+payments,order_id + payment_sequential,0,0,True
+reviews,review_id + order_id,0,0,True
+geolocation,geolocation_zip_code_prefix,0,0,True

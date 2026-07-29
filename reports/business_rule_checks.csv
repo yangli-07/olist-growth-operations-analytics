@@ -1,0 +1,10 @@
+check_name,affected_rows
+negative_item_price,0
+negative_freight_value,0
+negative_payment_value,0
+payment_installments_less_than_one,2
+review_score_outside_1_to_5,0
+nonpositive_product_weight,4
+nonpositive_product_length,0
+nonpositive_product_height,0
+nonpositive_product_width,0

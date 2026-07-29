@@ -1,0 +1,10 @@
+table_name,column_name,missing_values,negative_values,zero_values,minimum_value,maximum_value
+order_items,price,0,0,0,0.85,6735.0
+order_items,freight_value,0,0,383,0.0,409.68
+payments,payment_value,0,0,9,0.0,13664.08
+payments,payment_installments,0,0,2,0.0,24.0
+reviews,review_score,0,0,0,1.0,5.0
+products,product_weight_g,2,0,4,0.0,40425.0
+products,product_length_cm,2,0,0,7.0,105.0
+products,product_height_cm,2,0,0,2.0,105.0
+products,product_width_cm,2,0,0,6.0,118.0

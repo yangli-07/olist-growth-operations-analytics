@@ -1,0 +1,10 @@
+table_name,file_name,rows,columns,file_size_mb
+customers,customers_clean.csv,99441,5,8.19
+geolocation,geolocation_clean.csv,19015,6,0.81
+order_items,order_items_clean.csv,112650,7,14.22
+payments,payments_clean.csv,103886,5,5.37
+reviews,reviews_clean.csv,99224,7,13.29
+orders,orders_clean.csv,99441,11,18.22
+products,products_clean.csv,32951,10,3.11
+sellers,sellers_clean.csv,3095,4,0.16
+category_translation,category_translation_clean.csv,74,2,0.0
