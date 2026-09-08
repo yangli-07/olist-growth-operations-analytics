@@ -1,0 +1,11 @@
+customer_segment,customer_count,customer_share_pct,completed_order_count,monetary_value,average_recency_days,average_completed_orders,average_customer_value
+High Value at Risk,21677,22.56,23022,6538599.45,337.01,1.06,301.64
+Need Attention,19521,20.31,20074,3304202.49,136.62,1.03,169.26
+Hibernating,33363,34.72,33363,2417915.65,339.74,1.00,72.47
+Promising,11365,11.83,11365,1898661.33,60.23,1.00,167.06
+New Customers,6414,6.67,6414,1000651.11,18.60,1.00,156.01
+Potential Loyalists,552,0.57,1104,160449.92,46.39,2.00,290.67
+Champions,55,0.06,206,36095.89,45.44,3.75,656.29
+At Risk,340,0.35,696,33598.37,338.76,2.05,98.82
+Loyal Customers,70,0.07,233,32287.56,129.74,3.33,461.25
+No Completed Purchase,2739,2.85,0,0.00,,0.00,0.00
