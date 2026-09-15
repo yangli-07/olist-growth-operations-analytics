@@ -1,0 +1,7 @@
+metric_name,expected_value,actual_value,difference,passed
+delivery_status_orders,95096,95096,0,t
+monthly_completed_orders,96477,96477,0,t
+overall_completed_orders,96477,96477,0,t
+seller_duplicate_grains,0,0,0,t
+seller_order_duplicate_grains,0,0,0,t
+state_completed_orders,96477,96477,0,t

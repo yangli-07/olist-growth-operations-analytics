@@ -1,0 +1,2 @@
+completed_order_count,valid_delivery_order_count,late_delivery_order_count,late_delivery_rate_pct,average_delivery_days,average_estimated_delivery_days,average_carrier_handling_days,average_delivery_delay_days,average_delay_days_when_late,reviewed_order_count,average_review_score,low_review_order_count,low_review_rate_pct,seller_order_count,shipping_limit_breach_count,shipping_limit_breach_rate_pct,same_state_seller_order_count,same_state_delivery_rate_pct
+96477,95096,6509,6.84,12.56,24.38,3.24,-11.83,10.62,95831,4.16,12236,12.77,97818,8775,8.97,35186,35.97
