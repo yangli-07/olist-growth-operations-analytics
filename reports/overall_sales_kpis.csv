@@ -1,0 +1,2 @@
+completed_order_count,completed_customer_count,item_count,item_price_total,freight_total,item_and_freight_total,payment_value_total,average_order_value,average_items_per_order,freight_share_pct,payment_difference,first_completed_purchase_date,last_completed_purchase_date
+96477,93357,110194,13221363.14,2198267.15,15419630.29,15422461.77,159.86,1.14,14.26,2831.48,2016-10-03,2018-08-29

@@ -1,0 +1,9 @@
+metric_name,expected_value,actual_value,difference,passed
+category_duplicate_grains,0,0,0,t
+category_freight,2198267.15,2198267.15,0.00,t
+category_item_price,13221363.14,13221363.14,0.00,t
+monthly_order_count,96477,96477,0,t
+monthly_payment_value,15422461.77,15422461.77,0.00,t
+product_duplicate_grains,0,0,0,t
+product_freight,2198267.15,2198267.15,0.00,t
+product_item_price,13221363.14,13221363.14,0.00,t

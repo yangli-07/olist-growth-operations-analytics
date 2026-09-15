@@ -1,0 +1,5 @@
+threshold_pct,products_required,total_product_count,product_share_required_pct
+50.00,1818,32216,5.64
+80.00,8349,32216,25.92
+90.00,14235,32216,44.19
+95.00,19403,32216,60.23
